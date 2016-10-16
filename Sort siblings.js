@@ -1,4 +1,4 @@
-// SORT SIBLINGS.
+// Sort currently selected node and its siblings alphabetically.
 // Script by YR.
 (function() {
     function TaskPaperContextScript(editor, options) {
