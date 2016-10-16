@@ -1,4 +1,4 @@
-// SORT SELECTED LINES BY DUE DATE
+// Sort currently selected node and its siblings by due date.
 (function() {
     function TaskPaperContextScript(editor, options) {
         var selection = editor.selection.startItem, // Get the selected node (or the starting item of a selected range)...
